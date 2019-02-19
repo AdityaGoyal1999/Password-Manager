@@ -9,6 +9,7 @@ class Generator:
     === Attributes ===
     _length: the length of the password
     """
+    _length: int
 
     def __init__(self, length: int) -> None:
         """ The length of the password string.
