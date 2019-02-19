@@ -10,7 +10,7 @@ All the user has to do is remember is remember the master password that he need 
 <br>
 <h3>Contact Information.</h3>
 <p>
-  <u>Name:</u>Aditya Goyal. <br>
-  <u>email:</u>aditya.goyal@mail.utoronto.ca<br>
+  <h6>Name:</h6>Aditya Goyal. <br>
+  <h6>email:</h6>aditya.goyal@mail.utoronto.ca<br>
 </p>
 <p> If you have any converns about the code or want to discuss anything about it, reach out! </p>
