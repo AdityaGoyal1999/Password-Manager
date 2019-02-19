@@ -8,6 +8,17 @@ This program also helps the user to generate a more secure computer generated pa
 All the user has to do is remember is remember the master password that he need to unlock the passwords that he has.
 </p>
 <br>
+<h4> Functionality</h4>
+<p>
+  <ul>
+    <li>Generate a random password</li>
+    <li>Saves all the user's passwords at one place with a unique ID.</li>
+    <li>Sends recovery email if the user forgot the master password for the account</li>
+    <li>User can add his own password.</li>
+    <li>User can also change his previous passwords.</li>
+  </ul>
+</p>
+<br>
 <h3>Contact Information.</h3>
 <p>
   <h6>Name:</h6>Aditya Goyal. <br>
